@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Sunny Dhaka 👋
 
-<!--
-**dhaka02/dhaka02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer | Backend & AI Specialist**
 
-Here are some ideas to get you started:
+I build scalable backend systems and intelligent applications using **Python, Django, and AWS**. Passionate about RAG pipelines, system design, and solving real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently working at **Spark Eighteen** (Backend Engineering)
+- 🌱 Previously: CIPD LAB, IIIT Delhi Teaching Assistant
+- 💡 Strong in **Django REST Framework, RAG (LangChain), Docker, CI/CD, PostgreSQL, Redis**
+- 🏆 1500+ Codeforces rating | Specialist | 1000+ problems solved
+
+## 🛠 Tech Stack
+
+**Languages**: Python, JavaScript, Kotlin, C  
+**Backend**: Django, Django REST Framework, REST APIs, JWT, RBAC  
+**AI/ML**: LangChain, RAG Pipelines, Prompt Engineering, OpenAI  
+**Databases**: PostgreSQL, MySQL, MongoDB, Redis  
+**DevOps**: Docker, GitHub Actions, AWS  
+**Others**: React, System Design, OOP, Computer Networks
+
+## 🚀 Featured Projects
+
+- **[MovieFlow](https://github.com/dhaka02/movieflow)** — High-performance Django backend with JWT auth, Redis caching & Docker
+- **[DocuQuery](https://github.com/dhaka02/Docquery)** — RAG-powered chatbot using LangChain + PDF ingestion
+- **[News App](https://github.com/dhaka02/News_app)** — Android application built with Kotlin
+- **[Memory_os](https://github.com/dhaka02/Memory_os)** — Custom memory management system in C
+
+## 📫 Connect with me
+- [LinkedIn](https://linkedin.com/in/yourprofile) 
+- [Portfolio](your-portfolio-link)
+- Email: sunny21429@gmail.com
+
+---
+
+*Always learning, building, and optimizing systems.*
