@@ -28,7 +28,6 @@ I build scalable backend systems and intelligent applications using **Python, Dj
 ## 📫 Connect with me
 - [LinkedIn](https://linkedin.com/in/yourprofile) 
 - [Portfolio](your-portfolio-link)
-- Email: sunny21429@gmail.com
 
 ---
 
