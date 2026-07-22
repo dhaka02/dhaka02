@@ -25,6 +25,10 @@ I build scalable backend systems and intelligent applications using **Python, Dj
 - **[News App](https://github.com/dhaka02/News_app)** — Android application built with Kotlin
 - **[Memory_os](https://github.com/dhaka02/Memory_os)** — Custom memory management system in C
 
+## 🌍 Open Source Contributions
+- Submitted code contributions to open source projects targeting **Google Summer of Code (GSoC)** and **Linux Foundation** repositories.
+- Actively engage with community maintainers and open-source codebases.
+
 ## 📫 Connect with me
 - [LinkedIn](https://linkedin.com/in/yourprofile) 
 - [Portfolio](your-portfolio-link)
